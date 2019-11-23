@@ -4,7 +4,7 @@
          <Detail></Detail>
       <DetailFront></DetailFront>
     <Button type="primary" @click="test">点击测试</Button>
-    <p> <router-link to='/list'>toList</router-link></p>
+    <p> <router-link to='/list'>toList</router-link>速度</p>
     <p> <router-link :to='{path:"about",query:{aaa:"323"}}'>toUpdate</router-link></p>
      
     

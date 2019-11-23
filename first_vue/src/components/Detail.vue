@@ -10,7 +10,7 @@
 export default {
     beforeRouteEnter (to, from, next) {
           num++;
-            console.log(num ,'beforeRouteEnter' ,'detail');
+            console.log(num ,'beforeRouteEnter的' ,'detail');
         next(vm => {
             num++;
             console.log(num ,'beforeRouteEnter --next' ,'detail');
