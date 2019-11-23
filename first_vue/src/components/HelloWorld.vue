@@ -21,10 +21,7 @@ export default {
       detail:{
         arr:[],
       },
-      success:{},
-      Establish:[
-        {name:'sh'}
-      ],
+    
       error:'tes566t2',
     }
   }
