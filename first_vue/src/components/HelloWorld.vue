@@ -16,7 +16,10 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js Appsad'
+      msg: 'Welcome to Your Vue.js Appsad',
+      dataList:[],
+      detail:{},
+      error:'',
     }
   }
 }
