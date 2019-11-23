@@ -23,6 +23,7 @@ export default {
       },
     
       error:'master',
+      error:'test',
     }
   }
 }
