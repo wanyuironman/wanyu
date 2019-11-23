@@ -18,8 +18,10 @@ export default {
     return {
       msg: 'Welcome to Your Vue.js Appsad',
       dataList:[],
-      detail:{},
-      error:'',
+      detail:{
+        arr:[],
+      },
+      error:'as',
     }
   }
 }
