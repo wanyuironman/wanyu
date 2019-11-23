@@ -20,11 +20,12 @@ export default {
   name: 'About',
   beforeCreate(){
       num++;
-      console.log(num, 'beforeCreated','DetailFront');
+      console.log(num, 'beforeCreated','DetailFront的');
   },
   created(){
       num++;
-      console.log(num, 'created','DetailFront');
+      
+      console.log(num, 'created','Detai的lFront');
       this.$nextTick(()=>{
            num++;
       console.log(num, '$nextTick','DetailFront');
