@@ -22,7 +22,7 @@ export default {
         arr:[],
       },
     
-      error:'master',
+      error:'master2',
     }
   }
 }
