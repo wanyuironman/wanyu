@@ -21,7 +21,7 @@ export default {
       detail:{
         arr:[],
       },
-      error:'as',
+      error:'test',
     }
   }
 }
